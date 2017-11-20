@@ -1,7 +1,6 @@
 # SapeStore
 # Book e-commerce application 
-
- -- Spring,Hibernate & RESTful webservices
+# Spring,Hibernate & RESTful webservices
 
 Login & Registration
 
